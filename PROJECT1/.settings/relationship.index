@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_MWIfUHG4Ee-i9L41i0RalA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RW5DcHG4Ee-i9L41i0RalA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_RW5DcHG4Ee-i9L41i0RalA - customers",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
